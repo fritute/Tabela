@@ -1,0 +1,18 @@
+table{
+    width:80%;
+    height:80px;
+  }
+  #from{
+    width:55%;
+    margin: auto;
+    display: block;
+    
+  }
+  
+  td{
+    font-size: 30px
+  }
+  img{
+   width: 200px;
+   height: 200px;
+  }
